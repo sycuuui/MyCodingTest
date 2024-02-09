@@ -1,3 +1,5 @@
+package practice;
+
 public class Num12865 {
     //N:필요한 물건의 개수
     //W:물건 무게
